@@ -1,10 +1,9 @@
 <h1 align="center">#SNL Projeto Proffy Mobile</h1>
 <p align="center">
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hernanbs/snl-proffy-web-proffy?style=flat-square">
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/hernanbs/snl-proffy-web-proffy?color=%2361c83b%3B&style=flat-square">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hernanbs/snl-proffy-mobile-proffy?style=flat-square">
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/hernanbs/snl-proffy-mobile-proffy?color=%2361c83b%3Bstyle=flat-square">
 <img alt="GitHub" src="https://img.shields.io/github/license/hernanbs/snl-proffy-web-proffy?style=flat-square">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hernanbs/snl-proffy-web-proffy?color=%2361c83b%3B&style=flat-square">
-
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hernanbs/snl-proffy-mobile-proffy?color=%2361c83b%3B&style=flat-square">
 <h4 align="center"> 
 	  ✔️ Projeto Proffy Mobile📌 Concluído 🚀 
 </h4>
@@ -31,12 +30,10 @@
 ``` console
   # Instale as dependências
 	yarn install
-  # Instale tipos básicos do react
-	npm install @types/react-router-dom
-	npm install @types/react
-	npm install @types/react-dom
+  # Instale a ferramenta de linha de comando Expo CLI
+    npm install --global expo-cli
   # Execute a aplicação 
-	yarn start
+	expo start
 
 ```
 

@@ -17,12 +17,10 @@
 ##### Mobile
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Tela de recepção pequena" title="Tela de recepção pequena" src="./images/proffy-home-mobileweb.PNG" width="400px" height="650px">
-  <img alt="Tela de listagem de professores pequena" title="Tela de listagem de professores pequena" src="./images/proffy-lista-mobileweb.PNG" width="400px">
-  <img alt="Tela de recepção grande" title="Tela de recepção grande" src="./images/proffy-home-web.PNG" width="400px">
-  <img alt="Tela de listagem de professores grande" title="Tela de listagem de professores grande" src="./images/proffy-lista-web-pesquisado.PNG" width="400px">
-  <img alt="Tela de cadastro de aluno inicio" title="Tela de cadastro de aluno inicio" src="./images/cadastro-proffy-web-acima.PNG" width="400px">
-  <img alt="Tela de cadastro de aluno fim" title="Tela de cadastro de aluno fim" src="./images/cadastro-proffy-web-abaixo.PNG" width="400px">
+  <img alt="Tela de recepção" title="Tela de recepção" src="./images/landing-mobile.jpg" width="300px" >
+  <img alt="Tela de listagem de professores" title="Tela de listagem de professores" src="./images/list-proffy.jpg" width="300px">
+  <img alt="Tela de adicionar professores" title="Tela de adicionar professores" src="./images/add-proffy.jpg" width="300px">
+  <img alt="Tela de favoritos" title="Tela de favoritos" src="./images/fav-proffy.jpg" width="300px">
 </p>
 
 ### :rocket: Executar o projeto

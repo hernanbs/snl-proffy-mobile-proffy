@@ -29,10 +29,9 @@
   # Instale as dependências
 	yarn install
   # Instale a ferramenta de linha de comando Expo CLI
-    npm install --global expo-cli
+    	npm install --global expo-cli
   # Execute a aplicação 
 	expo start
-
 ```
 
 ### :hammer_and_wrench: Tecnologias
